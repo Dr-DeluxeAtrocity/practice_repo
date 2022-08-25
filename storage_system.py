@@ -1,3 +1,2 @@
 
-class StorageSystem:
-    pass
+
